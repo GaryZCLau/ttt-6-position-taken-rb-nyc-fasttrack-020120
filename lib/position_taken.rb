@@ -5,6 +5,7 @@
 # end
 
 def position_taken? (board, index)
-  array[index_number] == " "
-  return false
+  if array[inde_number] == " "
+    return false
+  end
 end
